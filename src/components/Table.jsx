@@ -103,4 +103,3 @@ export function Model(props) {
 }
 
 useGLTF.preload('/Table.glb')
-
